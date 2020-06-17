@@ -1,2 +1,2 @@
 # utils
-Utility Functions
+General Utility Functions
